@@ -73,3 +73,10 @@ p {
 body {
     background-color: #ecdfd5;
 }
+
+footer {
+    padding: 80px;
+    text-align: center;
+    font-size: 8px;
+    background-color: #ecdfd5;
+}
