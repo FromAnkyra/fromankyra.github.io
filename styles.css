@@ -84,6 +84,23 @@ h2 {
     padding-left: 20px;
 }
 
+.book-title {
+    line-height: 10px;
+}
+
+h3 {
+    font-family: Rockwell;
+    padding-bottom: 0px;
+    color: #3b4547;
+    padding-left: 20px;
+}
+
+.author {
+    line-height: 10px;
+    color: #3b4547;
+    padding-left: 22px;
+}
+
 p {
     line-height: 22px;
     padding-left: 20px;
@@ -109,7 +126,7 @@ body {
 footer {
     padding: 10px;
     text-align: center;
-    font-size: 8px;
+    font-size: 12px;
     background-color: #ecdfd5;
 }
 
